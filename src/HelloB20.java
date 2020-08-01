@@ -7,6 +7,10 @@ public class HelloB20 {
 
         System.out.println("I created git something");
 
+        for (int i = 0;i < 5;i++){
+            System.out.print(i + " ");
+        }
+
     }
 
 }
