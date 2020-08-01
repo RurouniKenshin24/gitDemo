@@ -11,6 +11,9 @@ public class HelloB20 {
             System.out.print(i + " ");
         }
 
+
+        System.out.println("Github repo is created");
+
     }
 
 }
